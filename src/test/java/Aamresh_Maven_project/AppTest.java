@@ -9,7 +9,9 @@ public class AppTest {
 	public void OpenBrowser(){
 		System.setProperty("webdriver.firefox.marionette", "D://selenium//geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
-		driver.get("https://www.ksrtc.in/oprs-web/");
+		driver.get("https://www.google.co.in/");
+		System.out.println(driver.getTitle());
+		
 	}
 	
 }

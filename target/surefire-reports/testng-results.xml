@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Aamresh_Maven_project.AppTest" duration-ms="58281" started-at="2018-01-11T05:39:41Z" finished-at="2018-01-11T05:40:40Z">
+  <suite name="Aamresh_Maven_project.AppTest" duration-ms="46795" started-at="2018-01-12T05:50:09Z" finished-at="2018-01-12T05:50:56Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="58281" started-at="2018-01-11T05:39:41Z" finished-at="2018-01-11T05:40:40Z">
+    <test name="Command line test" duration-ms="46795" started-at="2018-01-12T05:50:09Z" finished-at="2018-01-12T05:50:56Z">
       <class name="Aamresh_Maven_project.AppTest">
-        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Aamresh_Maven_project.AppTest@15f7ae5]" name="OpenBrowser" duration-ms="58263" started-at="2018-01-11T11:09:41Z" finished-at="2018-01-11T11:10:40Z">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Aamresh_Maven_project.AppTest@15f7ae5]" name="OpenBrowser" duration-ms="46744" started-at="2018-01-12T11:20:09Z" finished-at="2018-01-12T11:20:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
