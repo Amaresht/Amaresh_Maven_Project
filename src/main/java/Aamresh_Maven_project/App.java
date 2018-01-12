@@ -6,6 +6,6 @@ public class App
 	@org.testng.annotations.Test
     public  void Test()
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello" );
     }
 }
